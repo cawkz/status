@@ -12,6 +12,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
 
   name: CawKZ Status
-  theme: dark
+  theme: night
 
   robotsText: "User-agent: * \n Disallow: /"
