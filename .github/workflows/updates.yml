@@ -19,4 +19,4 @@ jobs:
       - name: Update code
         uses: upptime/updates@master
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
