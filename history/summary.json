@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/cawkz.com",
     "slug": "caw-kz-website",
     "status": "up",
-    "uptime": "94.06%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.30%",
-    "time": 585,
-    "timeDay": 393,
-    "timeWeek": 491,
-    "timeMonth": 503,
+    "time": 584,
+    "timeDay": 399,
+    "timeWeek": 492,
+    "timeMonth": 502,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2023-05-10": 888,
@@ -55,16 +55,16 @@
     "icon": "https://favicons.githubusercontent.com/kzgo.eu",
     "slug": "kzgo",
     "status": "up",
-    "uptime": "89.80%",
+    "uptime": "89.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.85%",
+    "uptimeYear": "87.87%",
     "time": 467,
-    "timeDay": 321,
-    "timeWeek": 447,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "timeDay": 371,
+    "timeWeek": 439,
+    "timeMonth": 463,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2023-03-03": 159,
       "2023-03-02": 1440,
@@ -112,8 +112,7 @@
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
-      "2022-06-15": 1440,
-      "2022-06-14": 1440
+      "2022-06-15": 1440
     }
   }
 ]
